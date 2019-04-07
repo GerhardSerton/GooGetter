@@ -1,0 +1,6 @@
+Screen Dimensions: 500x500
+2 = pit
+3 = enemy
+4 = player
+5 = end
+6 = phantom
